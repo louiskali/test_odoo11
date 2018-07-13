@@ -7,10 +7,11 @@
 'auteur': "odooTeam",
 
 'data': [
-    
+
 ],
 'installable': True,
 'application': True,
 'auto_install': False,
 'qweb': [],
+'data' : ['views/mytemplates.xml'],
 }

@@ -1,0 +1,5 @@
+<odoo>
+  <template id='test_view' name='my test view template'>
+    <h1 class='text-primary text-center'>hello man this is a test page from template </h1>
+  </template>
+</odoo>
