@@ -1,0 +1,5 @@
+<odoo>
+  <template id='test1_view' name='template'>
+    <h1 class='text-primary text-center'>Mon Premier Controller</h1>
+  </template>
+</odoo>
