@@ -1,5 +1,6 @@
 <odoo>
   <template id='test1_view' name='template'>
     <h1 class='text-primary text-center'>Mon Premier Controller</h1>
+        <span t-esc="test" />
   </template>
 </odoo>
